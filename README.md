@@ -24,7 +24,7 @@ I enjoy exploring new technologies and improving my coding skills through person
 * Python
 * Flutter
 * JavaScript
-* HTML
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 * CSS
 * SQL
 * React
