@@ -1,8 +1,8 @@
 
-*🎓 Diploma in IT Student
-*🎓 Bachelor of Science Major in Applied AI
-*💻 Interested in Web Development,Mobile Application, AI
-*📍 Based in Malaysia
+- 🎓 Diploma in IT Student
+- 🎓 Bachelor of Science Major in Applied AI
+- 💻 Interested in Web Development, Mobile Application & AI
+- 📍 Based in Malaysia
 
 ---
 ## 🚀 About Me
